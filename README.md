@@ -31,9 +31,12 @@ It detects the number of fingers and hand gestures via webcam and performs arith
 
 ---
 
+---
+
 ## 🙌 Made with ❤️ by [Faizan Ur Rehman](https://github.com/FURehman79)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/faizan-ur-rehman-666661248)
+
 
 ## 📦 Requirements
 
